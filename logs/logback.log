@@ -1,0 +1,34 @@
+2022-08-03 03:02:53,106 INFO o.s.b.StartupInfoLogger [restartedMain] Starting LogbackApplication using Java 11.0.14 on PBKN-PC with PID 2296 (C:\Users\Admin\git\Logback\target\classes started by PBKN in C:\Users\Admin\git\Logback)
+2022-08-03 03:02:53,111 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-08-03 03:02:53,113 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-08-03 03:02:53,191 INFO o.s.b.l.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-03 03:02:54,964 INFO o.s.b.d.a.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-08-03 03:02:55,023 INFO o.s.b.StartupInfoLogger [restartedMain] Started LogbackApplication in 2.531 seconds (JVM running for 4.413)
+2022-08-03 03:02:55,041 DEBUG c.e.l.a.LoggingAspect [restartedMain] Execution of LogbackApplication.run - Started
+2022-08-03 03:02:55,069 DEBUG c.e.l.a.LoggingAspect [restartedMain] Execution of LogbackServiceImpl.runServiceCall - Started
+2022-08-03 03:02:55,175 TRACE c.e.l.s.LogbackServiceImpl [restartedMain] Logback Sheet successfully parsed from file
+2022-08-03 03:02:55,176 INFO c.e.l.s.LogbackServiceImpl [restartedMain] LogbackSheet(no=10, timestamp=2022-08-03T02:58:35.024306800, className=LogbackServiceImpl)
+2022-08-03 03:02:55,190 TRACE c.e.l.s.LogbackServiceImpl [restartedMain] Logback Sheet created successfully
+2022-08-03 03:02:55,191 DEBUG c.e.l.a.LoggingAspect [restartedMain] Execution of LogbackServiceImpl.runServiceCall :: :::null - Ended
+2022-08-03 03:02:55,192 DEBUG c.e.l.a.LoggingAspect [restartedMain] Execution of LogbackApplication.run :: args:::null - Ended
+2022-08-03 03:03:00,007 DEBUG c.e.l.a.LoggingAspect [scheduling-1] Execution of LogbackServiceImpl.runServiceCall - Started
+2022-08-03 03:03:00,042 TRACE c.e.l.s.LogbackServiceImpl [scheduling-1] Logback Sheet successfully parsed from file
+2022-08-03 03:03:00,043 INFO c.e.l.s.LogbackServiceImpl [scheduling-1] LogbackSheet(no=1, timestamp=2022-08-03T03:02:55.178899200, className=LogbackServiceImpl)
+2022-08-03 03:03:00,050 TRACE c.e.l.s.LogbackServiceImpl [scheduling-1] Logback Sheet created successfully
+2022-08-03 03:03:00,051 DEBUG c.e.l.a.LoggingAspect [scheduling-1] Execution of LogbackServiceImpl.runServiceCall :: :::null - Ended
+2022-08-03 03:03:05,015 DEBUG c.e.l.a.LoggingAspect [scheduling-1] Execution of LogbackServiceImpl.runServiceCall - Started
+2022-08-03 03:03:05,037 TRACE c.e.l.s.LogbackServiceImpl [scheduling-1] Logback Sheet successfully parsed from file
+2022-08-03 03:03:05,038 INFO c.e.l.s.LogbackServiceImpl [scheduling-1] LogbackSheet(no=2, timestamp=2022-08-03T03:03:00.045035100, className=LogbackServiceImpl)
+2022-08-03 03:03:05,043 TRACE c.e.l.s.LogbackServiceImpl [scheduling-1] Logback Sheet created successfully
+2022-08-03 03:03:05,045 DEBUG c.e.l.a.LoggingAspect [scheduling-1] Execution of LogbackServiceImpl.runServiceCall :: :::null - Ended
+2022-08-03 03:03:10,008 DEBUG c.e.l.a.LoggingAspect [scheduling-1] Execution of LogbackServiceImpl.runServiceCall - Started
+2022-08-03 03:03:10,018 TRACE c.e.l.s.LogbackServiceImpl [scheduling-1] Logback Sheet successfully parsed from file
+2022-08-03 03:03:10,018 INFO c.e.l.s.LogbackServiceImpl [scheduling-1] LogbackSheet(no=3, timestamp=2022-08-03T03:03:05.040340400, className=LogbackServiceImpl)
+2022-08-03 03:03:10,021 TRACE c.e.l.s.LogbackServiceImpl [scheduling-1] Logback Sheet created successfully
+2022-08-03 03:03:10,022 DEBUG c.e.l.a.LoggingAspect [scheduling-1] Execution of LogbackServiceImpl.runServiceCall :: :::null - Ended
+2022-08-03 03:03:15,007 DEBUG c.e.l.a.LoggingAspect [scheduling-1] Execution of LogbackServiceImpl.runServiceCall - Started
+2022-08-03 03:03:15,018 TRACE c.e.l.s.LogbackServiceImpl [scheduling-1] Logback Sheet successfully parsed from file
+2022-08-03 03:03:15,019 INFO c.e.l.s.LogbackServiceImpl [scheduling-1] LogbackSheet(no=4, timestamp=2022-08-03T03:03:10.019269300, className=LogbackServiceImpl)
+2022-08-03 03:03:15,022 TRACE c.e.l.s.LogbackServiceImpl [scheduling-1] Logback Sheet created successfully
+2022-08-03 03:03:15,023 DEBUG c.e.l.a.LoggingAspect [scheduling-1] Execution of LogbackServiceImpl.runServiceCall :: :::null - Ended
+2022-08-03 03:03:19,309 INFO o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
